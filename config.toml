@@ -1,13 +1,13 @@
 languageCode = "en-us"
 title = "Lekkere recepten"
-baseurl = "http://ronsmits.org/recepten/"
+baseurl = "https://ronsmits.org/recepten"
 theme     = "bootie-docs"
 
 [params]
   description    = "Recepten die ik netjes ingetypt heb."
-  withSitePosts  = false
+  withSitePosts  = true
   searchDomain   = "ronsmits.org"
   #noCategoryLink = true
-  repositoryUrl  = "http://your-repository-url"
+  #repositoryUrl  = "http://your-repository-url"
   highlightStyle = "github"
 
