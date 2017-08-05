@@ -1,0 +1,13 @@
+languageCode = "en-us"
+title = "Lekkere recepten"
+baseurl = "http://ronsmits.org/recepten/"
+theme     = "bootie-docs"
+
+[params]
+  description    = "Recepten die ik netjes ingetypt heb."
+  withSitePosts  = false
+  searchDomain   = "ronsmits.org"
+  #noCategoryLink = true
+  repositoryUrl  = "http://your-repository-url"
+  highlightStyle = "github"
+
